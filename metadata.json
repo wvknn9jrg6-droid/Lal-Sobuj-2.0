@@ -1,0 +1,6 @@
+{
+  "name": "Lal Sobuj 2.0",
+  "description": "Lal Sobuj 2.0 bus ticketing, coach management, interactive seat layouts, and route booking system.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
